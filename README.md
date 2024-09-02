@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Belhenix
 - 👀 I’m interested in videogames, coding and learning new stuff
-- 🌱 I’m currently learning about automated testing and its tools, such as Selenium.
-- 💞️ I’m looking to collaborate here on github
+- 🌱 I’m currently learning about AI and Machine Learning.
 - 📫 You can contact me at belhenix@gmail.com
 
 <!---
